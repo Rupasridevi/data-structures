@@ -1,0 +1,16 @@
+#CSA0374
+1 Matrix multiplication,
+2 Odd or even number,
+3 factorial without recurssion,
+4 fibonacci series using recurssion ,
+5 factorial of number using recurssion,
+6 array operations ,
+7 linear search ,
+8 binary search ,
+9 linked list operations ,
+10 stack operations ,
+11 stack application's,
+12 queue operations ,
+13 tree traversal ,
+14 hashing ,
+15 fibonacci without using recurssion 
